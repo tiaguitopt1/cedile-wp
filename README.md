@@ -1,46 +1,22 @@
-# Project Title
+# CEDILE Website Project
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Summary](#Summary)
+- [Rundown](#rundown)
+- [Technologies Used](#tech_used)
 
-## About <a name = "about"></a>
+## Summary <a name = "Summary"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+During my internship @ Sistema 4 I was tasked with taking the CEDILE website and transforming it using the WordPress platform.
 
-## Getting Started <a name = "getting_started"></a>
+## Rundown <a name = "rundown"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+This task served as a test to my web developing and WordPress skills. The aim of this project is to recreate the CEDILE website based on the organization's real site, for learning and skills demonstration purposes.
 
-### Prerequisites
+### Technologies Used <a name = "tech_used"></a>
 
-What things you need to install the software and how to install them.
+- WordPress
+- HTML
+- CSS
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
